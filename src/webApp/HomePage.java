@@ -7,5 +7,7 @@ public class HomePage {
 
     //add logo on home page
 
+    //footer
+
 
 }
